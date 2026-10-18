@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Gradle
+.gradle/
+build/
+
+# Minecraft development run files
+/run/
+
+# Local environment
+local.properties
+
+# Operating system
+.DS_Store
+Thumbs.db
